@@ -1,0 +1,19 @@
+-- 7 Billion Humans (2053) --
+-- 12: Zíper aberto --
+
+pickup c
+a:
+if w == wall or
+ sw == worker or
+ se == worker:
+	step n
+	drop
+endif
+if nw == worker or
+ e == wall or
+ ne == worker:
+	step s
+	drop
+endif
+jump a
+

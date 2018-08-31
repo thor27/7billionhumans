@@ -11,7 +11,7 @@
 | 9 | Dynamic Angles                  |5     |**5** | 5/3            |
 |10 | Emergency Escapades             |**9** |**17**| 7/13           |
 |11 | Injection Sites 1               |5     |**6** | 5/5            |
-|12 | Unzip                           |8     |**5** | 8/4            |
+|12 | Unzip                           |8     |4     | 8/4            |
 |13 | Injection Sites 2               |**10**|**9** | 9/5            |
 |14 | Intro to Shredding              |0     |0     | 0/0            |
 |15 | Shred Lines                     |0     |0     | 0/0            |
