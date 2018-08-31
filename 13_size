@@ -1,4 +1,4 @@
-llion Humans (2053) --
+-- 7 Billion Humans (2053) --
 -- 13: Injection Sites 2 --
 
 pickup s
@@ -18,4 +18,3 @@ if e == wall:
 	step s
 endif
 jump a
-
