@@ -9,7 +9,7 @@
 | 6 | Little Exterminator 1           |**9** |3     | 8/3            |
 | 7 | Collation Station               |**5** |**6** | 4/4            |
 | 9 | Dynamic Angles                  |5     |3     | 5/3            |
-|10 | Emergency Escapades             |**9** |**17**| 7/13           |
+|10 | Emergency Escapades             |**9** |**14**| 7/13           |
 |11 | Injection Sites 1               |5     |**6** | 5/5            |
 |12 | Unzip                           |8     |4     | 8/4            |
 |13 | Injection Sites 2               |**10**|**9** | 9/5            |

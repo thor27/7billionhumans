@@ -1,16 +1,29 @@
 -- 7 Billion Humans (2053) --
--- 10: Emergency Escapades --
+-- 10: Saída de emergência --
 
-step sw
-step sw
-step sw
+step w
+step w
 a:
 if w != datacube:
 	step w
 	jump a
 endif
-step nw
-step nw
+if n == hole:
+	step sw
+	step w
+else:
+	if s == wall:
+		step nw
+		step nw
+	else:
+		step w
+		if w == hole:
+			step nw
+		else:
+			step w
+		endif
+	endif
+endif
 step sw
 step s
 step sw
@@ -23,4 +36,3 @@ step n
 step n
 step n
 step nw
-
