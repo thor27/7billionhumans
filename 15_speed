@@ -1,0 +1,64 @@
+-- 7 Billion Humans (2053) --
+-- 15: Linhas trituradas --
+
+comment 0
+a:
+step n
+if n != datacube:
+	jump a
+endif
+pickup n
+b:
+step s
+if s != shredder:
+	jump b
+endif
+giveto s
+comment 1
+step n
+c:
+step n
+if n != datacube:
+	jump c
+endif
+pickup n
+step s
+d:
+step s
+if s != shredder:
+	jump d
+endif
+giveto s
+comment 2
+step n
+step n
+step n
+e:
+step n
+if n != datacube:
+	jump e
+endif
+pickup n
+step s
+step s
+step s
+f:
+step s
+if s != shredder:
+	jump f
+endif
+giveto s
+
+
+DEFINE COMMENT 0
+eJztwzEKQFAcwOHfLdzDAcyOYJBNUS+xSHq8fzHJAeQURhlkMsmZvGMY3lefB4gipiChsTWxGCIGAtvH
+EEpPKx2TvYhmpWWTmp2SS3I75SDjRHFRccvIy8yD4zi/9wFa5Bub;
+
+DEFINE COMMENT 1
+eJztizEKwlAUBOcmXsMihVh4CItEBEViE+WjKTSsiDE2IYQUYpGzZm9h8wcG3mOZGebAksBcpa1I9GCh
+Jyu9Watm67/kRuO9VcFAzqA9HTu7oSZDpFRKuSgjeAsc3ZzcnOl05cedUS/78d3yVe82Eon8nQmN3STd
+;
+
+DEFINE COMMENT 2
+eJztjDEKg0AURN9BPMUWW1rkBJbpIzZZUilCCOQjogksRNYQQkoRC/GQ+cew2AfDFMObBJAzhgYjHsuI
+1U6l58CdjBtHKgpKHLWmI9e9kBcXglqBBwNfPDNPFvVWadnkyqbeIo5JTvzI+ejLm0gksiv+9UcffA;

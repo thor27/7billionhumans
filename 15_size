@@ -1,0 +1,17 @@
+-- 7 Billion Humans (2053) --
+-- 15: Linhas trituradas --
+
+a:
+b:
+step n
+if n != datacube:
+	jump a
+endif
+pickup n
+c:
+step s
+if s == shredder:
+	giveto s
+	jump b
+endif
+jump c
