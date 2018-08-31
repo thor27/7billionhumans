@@ -1,0 +1,20 @@
+llion Humans (2053) --
+-- 7: Collation Station --
+
+a:
+step s
+if c == datacube:
+	pickup c
+	jump b
+endif
+jump a
+b:
+c:
+step s
+if s == hole:
+	drop
+	jump d
+endif
+jump c
+d:
+
