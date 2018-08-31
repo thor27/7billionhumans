@@ -1,5 +1,5 @@
 -- 7 Billion Humans (2053) --
--- 11: Injection Sites 1 --
+-- 11: Pontos de inserção 1 --
 
 pickup s
 step s
@@ -7,11 +7,7 @@ step s
 a:
 step s
 step s
-if w == datacube and
- c == nothing:
-	drop
-	jump b
+if c != nothing:
+	jump a
 endif
-jump a
-b:
-
+drop
