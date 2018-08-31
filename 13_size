@@ -1,0 +1,21 @@
+llion Humans (2053) --
+-- 13: Injection Sites 2 --
+
+pickup s
+a:
+step e
+if w == datacube and
+ e == datacube and
+ c == nothing:
+	drop
+endif
+if e == wall:
+	b:
+	step w
+	if w != wall:
+		jump b
+	endif
+	step s
+endif
+jump a
+

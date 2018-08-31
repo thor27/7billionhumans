@@ -1,0 +1,26 @@
+-- 7 Billion Humans (2053) --
+-- 10: Emergency Escapades --
+
+step sw
+step sw
+step sw
+a:
+if w != datacube:
+	step w
+	jump a
+endif
+step nw
+step nw
+step sw
+step s
+step sw
+step w
+step w
+step w
+step nw
+step n
+step n
+step n
+step n
+step nw
+
