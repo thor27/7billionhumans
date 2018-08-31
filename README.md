@@ -13,7 +13,7 @@
 |11 | Injection Sites 1               |5     |**6** | 5/5            |
 |12 | Unzip                           |8     |4     | 8/4            |
 |13 | Injection Sites 2               |**10**|**9** | 9/5            |
-|14 | Intro to Shredding              |0     |0     | 0/0            |
+|14 | Intro to Shredding              |4     |2     | 4/2            |
 |15 | Shred Lines                     |0     |0     | 0/0            |
 |16 | Little Exterminator 2           |0     |0     | 0/0            |
 |17 | Content Creators                |0     |0     | 0/0            |
@@ -66,3 +66,5 @@
 |66 | Decimal Counter                 |0     |0     | 0/0            |
 |67 | Decimal Doubler                 |0     |0     | 0/0            |
 |68 | Goodbye, Humans!                |0     |0     | 0/0            |
+
+https://tomorrowcorporation.com/7billionhumansStats/

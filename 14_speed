@@ -1,0 +1,9 @@
+-- 7 Billion Humans (2053) --
+-- 14: Introdução aos trituradores --
+
+if s == datacube:
+	pickup s
+	step s
+	step s
+	giveto s
+endif
