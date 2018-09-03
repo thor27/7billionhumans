@@ -1,0 +1,13 @@
+-- 7 Billion Humans (2053) --
+-- 16: Outro probleminha --
+
+a:
+if c != datacube:
+	step s
+	jump a
+endif
+pickup c
+b:
+step e
+giveto se
+jump b

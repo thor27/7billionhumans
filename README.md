@@ -15,10 +15,10 @@
 |13 | Injection Sites 2               |**10**|**9** | 9/5            |
 |14 | Intro to Shredding              |4     |2     | 4/2            |
 |15 | Shred Lines                     |**9** |**19**| 8/12           |
-|16 | Little Exterminator 2           |0     |0     | 6/7            |
-|17 | Content Creators                |0     |0     | 1/2            |
-|18 | Uniquely Disposed               |0     |0     | 5/7            |
-|19 | Content Creators Bug Fix        |0     |0     | 4/26           |
+|16 | Little Exterminator 2           |**7** |7     | 6/7            |
+|17 | Content Creators                |1     |2     | 1/2            |
+|18 | Uniquely Disposed               |5     |**8** | 5/7            |
+|19 | Content Creators Bug Fix        |4     |26    | 4/26           |
 |20 | Reverse Line                    |0     |0     | 9/4            |
 |21 | Big Data                        |0     |0     | 6/21           |
 |22 | Number Royale                   |0     |0     | 5/7            |

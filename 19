@@ -1,0 +1,8 @@
+-- 7 Billion Humans (2053) --
+-- 19: Criação de conteúdo 2.0 --
+
+takefrom s
+a:
+giveto se
+takefrom sw
+jump a

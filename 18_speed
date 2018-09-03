@@ -1,0 +1,65 @@
+-- 7 Billion Humans (2053) --
+-- 18: Descarte Especial --
+
+pickup w
+if n == wall:
+	step sw
+	step s
+	step s
+	step s
+	step s
+	step s
+	step s
+	step s
+	step s
+	step s
+	giveto s
+else:
+	if n == nothing:
+		step s
+		step s
+		step s
+		step s
+		step s
+		step s
+		step s
+		step s
+		step s
+		giveto s
+	else:
+		step se
+		if n == nothing:
+			step se
+			step se
+			step se
+			step se
+			step se
+			step se
+			step se
+			step se
+			giveto s
+		else:
+			step se
+			if n == nothing:
+				step se
+				step se
+				step se
+				step se
+				step se
+				giveto s
+			else:
+				step se
+				if n == nothing:
+					step se
+					step se
+					step se
+					giveto s
+				else:
+					step se
+					step se
+					giveto s
+				endif
+			endif
+		endif
+	endif
+endif
