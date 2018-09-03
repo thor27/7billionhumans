@@ -1,0 +1,78 @@
+-- 7 Billion Humans (2053) --
+-- 20: Linha invertida --
+
+if sw == hole:
+	pickup s
+	step n
+	step ne
+	step e
+	step e
+	step e
+	step e
+	step e
+	step se
+	step s
+	step s
+	drop
+	end
+endif
+if se == hole:
+	pickup s
+	step s
+	step sw
+	step w
+	step w
+	step w
+	step w
+	step w
+	step nw
+	drop
+	end
+endif
+if sw != datacube:
+	pickup s
+	step ne
+	step e
+	step e
+	step e
+	step se
+	step s
+	drop
+	end
+endif
+if se != datacube:
+	pickup s
+	step sw
+	step w
+	step w
+	step w
+	step w
+	drop
+	end
+endif
+if sw != datacube:
+	pickup s
+	step se
+	step e
+	step e
+	drop
+	end
+endif
+if se != datacube:
+	pickup s
+	step s
+	step sw
+	step w
+	step nw
+	drop
+	end
+endif
+if sw != datacube:
+	pickup se
+	step s
+	drop
+	end
+endif
+pickup sw
+step s
+drop
