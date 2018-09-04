@@ -20,9 +20,9 @@
 |18 | Uniquely Disposed               |5     |**8** | 5/7            |
 |19 | Content Creators Bug Fix        |4     |26    | 4/26           |
 |20 | Reverse Line                    |9     |**5** | 9/4            |
-|21 | Big Data                        |0     |0     | 6/21           |
-|22 | Number Royale                   |0     |0     | 5/7            |
-|23 | Sorting Hall                    |0     |0     | 6/16           |
+|21 | Big Data                        |6     |21    | 6/21           |
+|22 | Number Royale                   |5     |9     | 5/7            |
+|23 | Sorting Hall                    |6     |21    | 6/16           |
 |24 | Budget Brigade 1                |0     |0     | 6/47           |
 |25 | My First Shredding Memory       |0     |0     | 5/131          |
 |26 | Budget Brigade 2                |0     |0     | 8/67           |
