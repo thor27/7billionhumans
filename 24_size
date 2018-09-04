@@ -1,0 +1,13 @@
+-- 7 Billion Humans (2053) --
+-- 24: Budget Brigade 1 --
+
+a:
+if s == printer:
+	takefrom s
+endif
+if s == shredder and
+ myitem == something:
+	giveto s
+endif
+giveto e
+jump a

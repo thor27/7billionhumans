@@ -1,0 +1,21 @@
+-- 7 Billion Humans (2053) --
+-- 24: Budget Brigade 1 --
+
+if s == printer:
+	a:
+	takefrom s
+	giveto e
+	jump a
+endif
+if s == hole:
+	b:
+	if myitem == datacube:
+		giveto e
+	endif
+	jump b
+endif
+c:
+if myitem == datacube:
+	giveto s
+endif
+jump c
