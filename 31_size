@@ -1,0 +1,12 @@
+-- 7 Billion Humans (2053) --
+-- 31: Checkerboard Organization --
+
+mem1 = nearest printer
+a:
+if myitem == nothing:
+	takefrom mem1
+	step w,e
+endif
+drop
+step nw,sw,ne,se
+jump a

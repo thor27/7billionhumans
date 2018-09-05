@@ -1,0 +1,106 @@
+-- 7 Billion Humans (2053) --
+-- 30: Fill the Floor --
+
+mem1 = nearest printer
+a:
+b:
+takefrom mem1
+step sw,se
+comment 1
+c:
+if e == printer:
+	d:
+	e:
+	comment 2
+	if c == nothing:
+		drop
+		jump b
+	else:
+		if w != wall:
+			step w
+			jump d
+		endif
+	endif
+	f:
+	if s == datacube:
+		step s
+		jump f
+	endif
+	if s == wall:
+		step mem1
+		step se
+		jump g
+	endif
+	step s
+	step e
+	step e
+	step e
+	step e
+	step e
+	step e
+	step e
+	step e
+	step e
+	step e
+	step e
+	jump e
+endif
+comment 0
+if w == printer:
+	g:
+	h:
+	i:
+	comment 4
+	if c == nothing:
+		drop
+		jump a
+	else:
+		if e != wall:
+			step e
+			jump h
+		endif
+	endif
+	j:
+	if n == datacube:
+		step n
+		jump j
+	endif
+	if n == wall:
+		step mem1
+		step sw
+		jump c
+	endif
+	step n
+	step w
+	step w
+	step w
+	step w
+	step w
+	step w
+	step w
+	step w
+	jump i
+endif
+
+
+DEFINE COMMENT 0
+eJztkF8rA2AUxn9X0prSLhDbWrGaGdZo4WL5O8uVpCW5cOXCDRcWJus0FNLijpmRFKHUkiQXC7nyAXwc
+z/Yl3OzUr8457/s+z3vOImAusjRybE5K1sAzLp7NzzcBEeKDsIhQtiHKDKs3Jsb5sjiPNkle5JRnmcAY
+wSxG1kKiU3k7uzSLio+HjLWxLObNzSwepvCSMC+juhehgx4L0kQXTvk61HEQpU7a9fJ0Szdgg8QZIGlR
+1iqa+JmTz0JVPyidbmLWS6x6FpZ6BK/14auebzFtaWZYZ4mU3qfYsBUKtkpRedE2ybOjefY4ZV8cqD5X
+XVB+wqsd8WOH/FpOFLWPS97tmhfutYc3zVsmwydpK5HgiX57IMgdrdzSwg0+u1LvQn87IynFWdvWDmpR
+i3+OP++jX6w;
+
+DEFINE COMMENT 1
+eJztkEFLlGEUhZ9liEREi3DRQg2kYBAZSo1ExQbRWYyiNZSItCkIZAoZTCNPVENGgQuX4kLEYDaBULiI
+qAjSYdBJJGpGS4RUtBJhtG1npJ/hhefjvPe93z3vvfcB/WBe38noPRneMc+MeW2ddO4Fi0qS4qUz04zy
+ikdWA66Ja4E4n+nTEn18I+YeMa3Sq216+U2MvNn3/R4J6xEzyh/e+O6jSfGLtMlo015rpLTiXCE++Z85
+bipFt9IEWeCMvnLMHsXkKNJPitjgCFtm2+c9irXPUf5y3PqE8pzULiXscMp+pX5PuTaoYp2Q6SlYaJFm
+ZWk50FkqlSPgPQQOzs8Jm4gSnvMhY3rApMSU+pnwxOPqNG3WrUyogbdc5AsXWFYNWaq9r/PM6hwfFGRG
+lSTNlE7zjDKemgTlJFTh3mfpV4A7qvWsdVyngS4uEfWrImotfGmyTz0d1HGFakXd/ar3cY2g2ukwUV02
+Pa6/4epbhL35sG57trhnvUsjgzTqHvUaMo8J6YkZppnDOIz/8Q++Kp+e;
+
+DEFINE COMMENT 2
+eJxTYQCCKgaVhlIGPYZiBjOGXAanhjSGMIYUhqiGeAYQq6IhhKGOwZ+hp8GPYUJDMMOUhjiGFUD5DQxZ
+DNsY8hkONBQzXGIoZ7gFMgqovqEhAYiTGOoaCoH6yhgaGCqA7GYgu52hqmESEE9mqGlYDMRLgOIrgPI7
+gXg/0J6DQJWjYBSMAroCACGCKdw;
