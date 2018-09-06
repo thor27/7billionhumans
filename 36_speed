@@ -1,0 +1,62 @@
+-- 7 Billion Humans (2053) --
+-- 36: Seek and Destroy 2 --
+
+mem1 = nearest shredder
+a:
+step n
+step n
+step n
+mem2 = set s
+if c < mem2:
+	mem4 = set mem3
+	mem3 = set mem2
+	mem2 = set c
+endif
+if n < mem2:
+	mem4 = set mem3
+	mem3 = set mem2
+	mem2 = set n
+endif
+step n
+step n
+step n
+if s < mem2:
+	mem4 = set mem3
+	mem3 = set mem2
+	mem2 = set s
+endif
+if c < mem2:
+	mem4 = set mem3
+	mem3 = set mem2
+	mem2 = set c
+endif
+if n < mem2:
+	mem4 = set mem3
+	mem3 = set mem2
+	mem2 = set n
+endif
+step n
+step n
+step n
+if s < mem2:
+	mem4 = set mem3
+	mem3 = set mem2
+	mem2 = set s
+endif
+if c < mem2:
+	mem4 = set mem3
+	mem3 = set mem2
+	mem2 = set c
+endif
+if n < mem2:
+	mem4 = set mem3
+	mem3 = set mem2
+	mem2 = set n
+endif
+pickup mem2
+giveto mem1
+pickup mem3
+giveto mem1
+pickup mem4
+giveto mem1
+jump a

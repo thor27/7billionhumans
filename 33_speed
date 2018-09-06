@@ -1,0 +1,15 @@
+-- 7 Billion Humans (2053) --
+-- 33: Data Backup Day --
+
+mem1 = set w
+mem2 = set e
+if mem1 > mem2:
+	step mem1
+	pickup c
+	write mem2
+else:
+	step mem2
+	pickup c
+	write mem1
+endif
+drop

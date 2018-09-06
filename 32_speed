@@ -1,0 +1,212 @@
+-- 7 Billion Humans (2053) --
+-- 32: Creative Writhing --
+
+if nw == wall:
+	step s
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step e
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step w
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step e
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step w
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	end
+endif
+if nw == something:
+	step s
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step e
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step w
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step e
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	end
+endif
+if sw == nothing:
+	step s
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step w
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step e
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step w
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	step s
+	pickup c
+	write 99
+	drop
+	end
+endif
+step s
+pickup c
+write 99
+drop
+step w
+pickup c
+write 99
+drop
+step s
+pickup c
+write 99
+drop
+step s
+pickup c
+write 99
+drop
+step e
+pickup c
+write 99
+drop
+step s
+pickup c
+write 99
+drop
+step s
+pickup c
+write 99
+drop
+step s
+pickup c
+write 99
+drop
+step w
+pickup c
+write 99
+drop
+step s
+pickup c
+write 99
+drop
+step s
+pickup c
+write 99
+drop
+step e
+pickup c
+write 99
+drop
+step s
+pickup c
+write 99
+drop

@@ -30,11 +30,11 @@
 |29 | Biometric Access                |5     |**60** | 5/58           |
 |30 | Fill the Floor                  |5     |**224**| 5/119          |
 |31 | Checkerboard Organization       |7     |**66** | 7/58           |
-|32 | Creative Writhing               |5     |0      | 5/31           |
-|33 | Data Backup Day                 |0     |0      | 8/2            |
-|34 | Seek and Destroy 1              |0     |0      | 8/8            |
+|32 | Creative Writhing               |5     |**32** | 5/31           |
+|33 | Data Backup Day                 |8     |2      | 8/2            |
+|34 | Seek and Destroy 1              |8     |**12** | 8/8            |
 |35 | Intro to Calc for Art Majors    |0     |0      | 4/3            |
-|36 | Seek and Destroy 2              |0     |0      | 8/69           |
+|36 | Seek and Destroy 2              |8     |0      | 8/69           |
 |37 | Dangerous Spreadsheeting        |0     |0      | 13/16          |
 |38 | Seek and Destroy 3              |0     |0      | 17/11          |
 |39 | Printing Etiquette 1            |0     |0      | 7/39           |
