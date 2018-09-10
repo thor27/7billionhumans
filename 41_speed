@@ -1,0 +1,37 @@
+-- 7 Billion Humans (2053) --
+-- 41: Image Decrypter --
+
+pickup w
+if myitem >= 12:
+	step w
+endif
+if myitem >= 11:
+	step w
+endif
+if myitem >= 10:
+	step w
+endif
+if myitem >= 9:
+	step w
+	step w
+endif
+if myitem >= 7:
+	step w
+endif
+if myitem >= 6:
+	step w
+endif
+if myitem >= 5:
+	step w
+endif
+if myitem >= 4:
+	step w
+endif
+if myitem >= 3:
+	step w
+	step w
+endif
+step w
+step w
+drop
+mem1 = calc 0 / 0

@@ -33,13 +33,13 @@
 |32 | Creative Writhing               |5     |**32** | 5/31           |
 |33 | Data Backup Day                 |8     |2      | 8/2            |
 |34 | Seek and Destroy 1              |8     |**12** | 8/8            |
-|35 | Intro to Calc for Art Majors    |0     |0      | 4/3            |
-|36 | Seek and Destroy 2              |8     |0      | 8/69           |
-|37 | Dangerous Spreadsheeting        |0     |0      | 13/16          |
-|38 | Seek and Destroy 3              |0     |0      | 17/11          |
-|39 | Printing Etiquette 1            |0     |0      | 7/39           |
-|40 | Printing Etiquette 2            |0     |0      | 8/39           |
-|41 | Image Decrypter                 |0     |0      | 8/7            |
+|35 | Intro to Calc for Art Majors    |4     |3      | 4/3            |
+|36 | Seek and Destroy 2              |8     |**94** | 8/69           |
+|37 | Dangerous Spreadsheeting        |13    |**30** | 13/16          |
+|38 | Seek and Destroy 3              |_15_  |32     | 17/11          |
+|39 | Printing Etiquette 1            |**8** |**50** | 7/39           |
+|40 | Printing Etiquette 2            |**10**|**54** | 8/39           |
+|41 | Image Decrypter                 |_7_   |0      | 8/7            |
 |42 | Important Email Organization    |0     |0      | 15/159         |
 |43 | Multiplication Table            |0     |0      | 10/31          |
 |44 | Unique Fashion Party            |0     |0      | 6/22           |

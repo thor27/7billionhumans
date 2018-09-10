@@ -2,61 +2,50 @@
 -- 36: Seek and Destroy 2 --
 
 mem1 = nearest shredder
+mem2 = set nothing
+mem3 = set nothing
+mem4 = set nothing
 a:
+b:
 step n
-step n
-step n
-mem2 = set s
-if c < mem2:
-	mem4 = set mem3
-	mem3 = set mem2
-	mem2 = set c
+if n == datacube:
+	if n < mem2 or
+	 mem2 == nothing:
+		mem4 = set mem3
+		mem3 = set mem2
+		mem2 = set n
+	else:
+		if n < mem3 or
+		 mem3 == nothing:
+			mem4 = set mem3
+			mem3 = set n
+		else:
+			if n < mem4 or
+			 mem4 == nothing:
+				mem4 = set n
+			endif
+		endif
+	endif
+else:
+	if n == wall:
+		jump c
+	endif
 endif
-if n < mem2:
-	mem4 = set mem3
-	mem3 = set mem2
-	mem2 = set n
-endif
-step n
-step n
-step n
-if s < mem2:
-	mem4 = set mem3
-	mem3 = set mem2
-	mem2 = set s
-endif
-if c < mem2:
-	mem4 = set mem3
-	mem3 = set mem2
-	mem2 = set c
-endif
-if n < mem2:
-	mem4 = set mem3
-	mem3 = set mem2
-	mem2 = set n
-endif
-step n
-step n
-step n
-if s < mem2:
-	mem4 = set mem3
-	mem3 = set mem2
-	mem2 = set s
-endif
-if c < mem2:
-	mem4 = set mem3
-	mem3 = set mem2
-	mem2 = set c
-endif
-if n < mem2:
-	mem4 = set mem3
-	mem3 = set mem2
-	mem2 = set n
-endif
-pickup mem2
-giveto mem1
-pickup mem3
-giveto mem1
-pickup mem4
-giveto mem1
 jump a
+c:
+if mem2 != nothing:
+	pickup mem2
+	giveto mem1
+	mem2 = set nothing
+endif
+if mem3 != nothing:
+	pickup mem3
+	giveto mem1
+	mem3 = set nothing
+endif
+if mem4 != nothing:
+	pickup mem4
+	giveto mem1
+	mem4 = set nothing
+endif
+jump b
