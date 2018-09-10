@@ -39,9 +39,9 @@
 |38 | Seek and Destroy 3              |_15_  |32     | 17/11          |
 |39 | Printing Etiquette 1            |**8** |**50** | 7/39           |
 |40 | Printing Etiquette 2            |**10**|**54** | 8/39           |
-|41 | Image Decrypter                 |_7_   |0      | 8/7            |
-|42 | Important Email Organization    |0     |0      | 15/159         |
-|43 | Multiplication Table            |0     |0      | 10/31          |
+|41 | Image Decrypter                 |_7_   |7      | 8/7            |
+|42 | Important Email Organization    |15    |0      | 15/159         |
+|43 | Multiplication Table            |10    |**41** | 10/31          |
 |44 | Unique Fashion Party            |0     |0      | 6/22           |
 |46 | Compulsory Office Romance       |0     |0      | 4/6            |
 |47 | Automated Pleasantries          |0     |0      | 3/7            |
