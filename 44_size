@@ -1,0 +1,17 @@
+-- 7 Billion Humans (2053) --
+-- 44: Unique Fashion Party --
+
+pickup s
+a:
+step e
+if n == myitem and
+ s == hole or
+ s != hole:
+	step s
+endif
+if n != nothing and
+ s == hole or
+ s != hole:
+	jump a
+endif
+step n

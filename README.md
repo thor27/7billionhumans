@@ -42,10 +42,10 @@
 |41 | Image Decrypter                 |_7_   |7      | 8/7            |
 |42 | Important Email Organization    |15    |**163**| 15/159         |
 |43 | Multiplication Table            |10    |**41** | 10/31          |
-|44 | Unique Fashion Party            |0     |0      | 6/22           |
-|46 | Compulsory Office Romance       |0     |0      | 4/6            |
-|47 | Automated Pleasantries          |0     |0      | 3/7            |
-|48 | Community Training Day          |0     |0      | 6/6            |
+|44 | Unique Fashion Party            |**7** |**67** | 6/22           |
+|46 | Compulsory Office Romance*      |4     |6      | 4/6            |
+|47 | Automated Pleasantries          |3     |7      | 3/7            |
+|48 | Community Training Day          |6     |6      | 6/6            |
 |49 | Double Sided Destruction        |0     |0      | 6/14           |
 |50 | Cubical Communication           |0     |0      | 8/28           |
 |51 | Identify Yourselves             |0     |0      | 6/6            |

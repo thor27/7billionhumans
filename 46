@@ -1,0 +1,9 @@
+-- 7 Billion Humans (2053) --
+-- 46: Compulsory Office Romance --
+
+if e == worker:
+	a:
+	tell everyone hi
+endif
+listenfor hi
+jump a

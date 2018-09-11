@@ -1,0 +1,11 @@
+-- 7 Billion Humans (2053) --
+-- 48: Community Training Day --
+
+mem1 = nearest shredder
+mem2 = nearest printer
+if n != wall:
+	listenfor go
+endif
+takefrom mem2
+giveto mem1
+tell everyone go
